@@ -1,4 +1,3 @@
-require 'pry'
 
 namespace :greeting do
 
